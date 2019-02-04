@@ -1,0 +1,34 @@
+﻿Input signal:
+
+
+Emergency: when the data is analyzed to be vital 
+
+
+signal loss alert：when sensor is lost attached
+
+
+Shock alert：when patient is in shock
+
+
+Oxygen supplement alert：not enough oxygen, need to increase amount of oxygen
+
+
+Normal condition light
+
+
+Fever sign：light is on when temperature is normal
+
+
+Hypotension and hypertension sign：light is on
+
+
+
+
+Output signal:
+
+
+Pulse: pulse on configurable time intervals
+blood pressure on configurable time intervals
+blood Oxygen levels on configurable time intervals
+get alerts
+get future prediction
